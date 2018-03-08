@@ -1,4 +1,4 @@
-# randomquotegenerator
+# randomQuoteGenerator
 A freeCodeCamp project.
 
 <h3>Build a Random Quote Machine</h3>
